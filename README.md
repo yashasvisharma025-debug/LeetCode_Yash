@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
