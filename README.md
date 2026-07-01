@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
