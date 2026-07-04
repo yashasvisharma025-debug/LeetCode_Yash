@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0303-range-sum-query-immutable) |
 ## Linked List
 |  |
@@ -87,9 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0225-implement-stack-using-queues) |
 | [0735-asteroid-collision](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0735-asteroid-collision) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
