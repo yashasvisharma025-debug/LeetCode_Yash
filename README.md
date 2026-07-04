@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0735-asteroid-collision) |
 ## String
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -98,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/yashasvisharma025-debug/LeetCode_Yash/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
